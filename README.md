@@ -1,1 +1,1 @@
-# Cancer_prediction_GUI
+# Cancer_Prediction_GUI
