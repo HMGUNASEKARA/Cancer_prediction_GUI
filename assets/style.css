@@ -1,0 +1,19 @@
+.st-emotion-cache-1cn49yv.eu6p4el2 {
+    background-color: #799aaf; /* Light grey background */
+    padding: 1rem; /* Add some spacing */
+    border-radius: 0.5rem; /* Rounded corners */
+}
+
+.diagnosis {
+    color: #fff;
+    padding: 0.2em 0.5em;
+    border-radius: 0.5em;
+
+}
+
+.diagnosis.benign {
+    background-color: #01db40;
+}
+.diagnosis,malicious {
+    background-color: #ff4b4b;
+}
